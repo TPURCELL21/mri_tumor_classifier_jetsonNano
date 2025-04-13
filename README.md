@@ -31,3 +31,7 @@ Seleziona un’immagine MRI per ottenere la classificazione ("Tumor" o "No Tumor
 - `install_dependencies.sh`: installazione automatica dipendenze
 - `README.md`: istruzioni operative
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
